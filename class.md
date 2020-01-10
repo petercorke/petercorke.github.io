@@ -1,3 +1,7 @@
+---
+layout: default
+title: Example
+---
 # Classes
 
 The Spatial Math Toolbox matrix functions, the oldest part of the Toolbox, use native MATLAB matrices to represent position, orientation and pose. However this has a number of limitations:

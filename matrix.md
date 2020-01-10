@@ -1,3 +1,7 @@
+---
+layout: default
+title: Example
+---
 # Matrix functions
 
 These functions return and operate on native MATLAB matrices.  They are the earliest part of the Toolbox (circa 1993) and their functionality has been superseded by a set of [classes](class.md) which also provide increased code readability and type safety.
