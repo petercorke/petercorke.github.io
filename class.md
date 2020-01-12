@@ -4,6 +4,8 @@ layout: default
 ---
 # Classes
 
+{:toc}
+
 The Spatial Math Toolbox matrix functions, the oldest part of the Toolbox, use native MATLAB matrices to represent position, orientation and pose. However this has a number of limitations:
 
 - there is no type safety, MATLAB allows us to add two SE(2) matrices but that is not a valid operation on the SE(2) group.

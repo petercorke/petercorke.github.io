@@ -1,5 +1,14 @@
 #theme: jekyll-theme-tactile
-remote-theme: pmarsceill/just-the-docs
-title: Using the Spatial Math Toolbox for MATLAB
-description: This free Toolbox adds capability to MATLAB for representing position, orientation and pose in 2D and 3D
+title: Spatial Math Toolbox for MATLAB
+description: A free MATLAB for representing position, orientation and pose in 2D and 3D
 google_analytics: UA-3845189-1
+
+remote-theme: pmarsceill/just-the-docs
+footer_content: "Copyright &copy; Peter Corke. Distributed at <a href=\"https://github.com/petercorke/spatial-math\">Spatial Math Toolbox for MATLAB</a>"
+ga_tracking: UA-3845189-1
+aux_links:
+  "Spatial Math Toolbox for MATLAB":
+   - https://github.com/petercorke/spatial-math
+  "Robotics Toolbox for MATLAB":
+   - https://github.com/petercorke/robotics-toolbox-matlab
+ logo: "figs/icon.png"
