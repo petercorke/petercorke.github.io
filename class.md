@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Example
 ---
 # Classes
 
@@ -88,7 +87,7 @@ We can animate the motion from the world frame to the rotated frame with
 >>> R.animate()
 ```
 
-![Animation produced by tranimate2('movie')](anim2.gif)
+![Animation produced by tranimate2('movie')](figs/anim2.gif)
 
 We can interpolate between two orientations
 ```matlab
@@ -288,7 +287,7 @@ or animate the motion from the world frame to the rotated frame with
 >> R.animate()    % or animate(R)
 ```
 
-![Animation produced by tranimate('movie')](anim3d-1.gif)
+![Animation produced by tranimate('movie')](figs/anim3d-1.gif)
 and since we are rotating about the x-axis it doesn't move.
 
 Just as for the 2D-case we can interpolate between two orientations
