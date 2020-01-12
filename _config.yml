@@ -1,4 +1,5 @@
-theme: jekyll-theme-tactile
+#theme: jekyll-theme-tactile
+remote-theme: pmarsceill/just-the-docs
 title: Using the Spatial Math Toolbox for MATLAB
 description: This free Toolbox adds capability to MATLAB for representing position, orientation and pose in 2D and 3D
 google_analytics: UA-3845189-1
