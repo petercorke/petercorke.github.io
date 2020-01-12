@@ -7,4 +7,7 @@ description: "A free MATLAB for representing position, orientation and pose in 2
 ga_tracking: UA-3845189-1
 aux_links:
   "Spatial Math Toolbox for MATLAB":
-   - https://github.com/petercorke/spatial-math
+    - "https://github.com/petercorke/spatial-math"
+  "Robotics Toolbox for MATLAB":
+    - "https://github.com/petercorke/robotics-toolbox-matlab"
+footer_content: "Copyright &copy; Peter Corke. Distributed at <a href=\"http    s://github.com/petercorke/spatial-math\">Spatial Math Toolbox for MATLAB</a>    "
