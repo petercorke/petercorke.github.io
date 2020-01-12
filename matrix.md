@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Example
+title: Matrix functions
 ---
 # Matrix functions
 
@@ -85,7 +85,7 @@ P =
 >> plot_point(P, 'label', 'P')
 ```
 
-![2D coordinate frame and point](frame2d-1.png)
+![2D coordinate frame and point](figs/frame2d-1.png)
 Now the position of the point _with respect to_ the world frame is
 ```matlab
 >> A'*P
@@ -108,7 +108,7 @@ T =
 ```
 which represents the pose of a coordinate frame which we can show graphically
 
-![2D coordinate frame and point](frame2d-2.png)
+![2D coordinate frame and point](figs/frame2d-2.png)
 
 We can extract the translational component by
 ```matlab
@@ -128,7 +128,7 @@ A =
 ```
 which, reading left to right, is a translation by 2 in the x-direction and 3 in the y-direction _then_ a rotation by 30 degrees (the function `trot2` is like `rot2` but it returns a 3&tmes;3 homogeneous transformation matrix rather than a 2&tmes;2 rotation matrix, with the translational part set to zero).
 
-![2D coordinate frame and point](frame2d-5.png)
+![2D coordinate frame and point](figs/frame2d-5.png)
 
 Consider a point defined with respect to the frame {A}
 ```matlab
@@ -195,7 +195,7 @@ We can think of this matrix as defining a new coordinate frame, rotated about th
 >> trplot(R)
 ```
 
-![2D coordinate frame and point](frame3d-1.png)
+![2D coordinate frame and point](figs/frame3d-1.png)
 
 or animate the motion from the world frame to the rotated frame with
 ```matlab
