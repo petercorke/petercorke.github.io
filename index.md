@@ -1,4 +1,5 @@
 ---
+title: Spatial Math Toolbox for MATLAB
 layout: default
 ---
 
