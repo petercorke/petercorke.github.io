@@ -9,23 +9,22 @@ compounding a number of elementary transformations defined by the string
 `S`.  The string `S` comprises a number of tokens of the form X(ARG) where
 X is one of Tx, Ty, Tz, Rx, Ry, or Rz.  ARG is an arbitrary MATLAB expression
 that can include constants or workspace variables. For example:
-
 ```matlab
     trchain('Tx(1) Rx(90) Ry(45) Tz(2)')
+
 ```
 
 
 is equivalent to computing
-
 ```matlab
   transl(1,0,0) * trotx(90, 'deg') * troty(45, 'deg') * transl(0,0,2)
+
 ```
 
 
 ```T = TRCHAIN(S, Q)``` as above but the expression for ARG can also contain
 a variable 'qJ' which selects the Jth value from the passed vector `Q` (1&times;N).
 For example:
-
 ```matlab
   trchain('Rx(q1)Tx(a1)Ry(q2)Ty(a3)Rz(q3)', [1 2 3])
 
@@ -39,7 +38,6 @@ be passed in, instead of the string.
 `T` = TRCHAIN(TOK ...) as above but chain is defined by array of tokens
 instead of a string.
 ### Options
-
 | | |
 |---|---|
 | `- 'deg'` | all angular variables are in degrees (default radians) |
