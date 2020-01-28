@@ -2,7 +2,8 @@
 ---
 # List of 2d functions
 | Function | Description|
-|---|---||[`t2r`](t2r.html) | Rotational submatrix |
+|---|---|
+|[`t2r`](t2r.html) | Rotational submatrix |
 |[`tr2rt`](tr2rt.html) | Convert homogeneous transform to rotation and translation |
 |[`tranimate2`](tranimate2.html) | Animate a 2D coordinate frame |
 |[`transl2`](transl2.html) | SE(2) translational homogeneous transform |

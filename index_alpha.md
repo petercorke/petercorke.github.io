@@ -2,7 +2,8 @@
 ---
 # Alphabetic list of functions
 | Function | Description|
-|---|---||[`t2r`](t2r.html) | Rotational submatrix |
+|---|---|
+|[`t2r`](t2r.html) | Rotational submatrix |
 |[`tb_optparse`](tb_optparse.html) | Standard option parser for Toolbox functions |
 |[`tr2angvec`](tr2angvec.html) | Convert rotation matrix to angle-vector form |
 |[`tr2delta`](tr2delta.html) | Convert SE(3) homogeneous transform to differential motion |
