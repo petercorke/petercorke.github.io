@@ -1,6 +1,7 @@
 ---
 layout: default
 has_children: true
+has_to: false
 ---
 # List of 2d functions
 
