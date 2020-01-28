@@ -1,6 +1,7 @@
 ---
 ---
 # List of homogeneous functions
+
 | Function | Description|
 |---|---||[`t2r`](t2r.html) | Rotational submatrix |
 |[`tr2angvec`](tr2angvec.html) | Convert rotation matrix to angle-vector form |

@@ -1,6 +1,7 @@
 ---
 ---
 # List of rotation functions
+
 | Function | Description|
 |---|---||[`tr2angvec`](tr2angvec.html) | Convert rotation matrix to angle-vector form |
 |[`tr2eul`](tr2eul.html) | Convert SO(3) or SE(3) matrix to Euler angles |
