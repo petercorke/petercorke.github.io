@@ -1,4 +1,10 @@
+---
+title: Spatial Math Toolbox for MATLAB
+layout: default
+---
 # Classes
+
+{:toc}
 
 The Spatial Math Toolbox matrix functions, the oldest part of the Toolbox, use native MATLAB matrices to represent position, orientation and pose. However this has a number of limitations:
 
@@ -84,7 +90,7 @@ We can animate the motion from the world frame to the rotated frame with
 >>> R.animate()
 ```
 
-![Animation produced by tranimate2('movie')](anim2.gif)
+![Animation produced by tranimate2('movie')](figs/anim2.gif)
 
 We can interpolate between two orientations
 ```matlab
@@ -117,7 +123,7 @@ P =
 >> plot_point(P, 'label', 'P')
 ```
 
-![2D coordinate frame and point](frame2d-1.png)
+![2D coordinate frame and point](figs/frame2d-1.png)
 Now the position of the point _with respect to_ the world frame is
 ```matlab
 >> A'*P
@@ -198,7 +204,7 @@ which represents the pose of a coordinate frame which we can show graphically by
 >> T.plot()   % or plot(T)
 ```
 
-![2D coordinate frame and point](frame2d-2.png)
+![2D coordinate frame and point](figs/frame2d-2.png)
 
 We can extract the translational component by
 ```matlab
@@ -220,7 +226,7 @@ ans =
 ```
 which is a translation by 2 in the x-direction and 3 in the y-direction _then_ a rotation by 30 degrees.
 
-![2D coordinate frame and point](frame2d-5.png)
+![2D coordinate frame and point](figs/frame2d-5.png)
 
 Consider a point defined with respect to the frame {A}
 ```matlab
@@ -277,14 +283,14 @@ We can think of this object as defining a new coordinate frame, rotated about th
 >> R.plot()    % or plot(R)
 ```
 
-![2D coordinate frame and point](frame3d-1.png)
+![2D coordinate frame and point](figs/frame3d-1.png)
 
 or animate the motion from the world frame to the rotated frame with
 ```matlab
 >> R.animate()    % or animate(R)
 ```
 
-![Animation produced by tranimate('movie')](anim3d-1.gif)
+![Animation produced by tranimate('movie')](figs/anim3d-1.gif)
 and since we are rotating about the x-axis it doesn't move.
 
 Just as for the 2D-case we can interpolate between two orientations
