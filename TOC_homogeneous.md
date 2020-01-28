@@ -1,4 +1,5 @@
 ---
+nav_order: 10
 ---
 # List of homogeneous functions
 

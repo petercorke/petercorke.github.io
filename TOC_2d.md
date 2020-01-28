@@ -2,6 +2,7 @@
 layout: default
 has_children: true
 has_to: false
+nav_order: 10
 ---
 # List of 2d functions
 

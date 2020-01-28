@@ -2,6 +2,7 @@
 layout: default
 has_children: true
 has_toc: false
+nav_order: 10
 ---
 # List of 3d functions
 
