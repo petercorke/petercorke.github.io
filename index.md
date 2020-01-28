@@ -3,7 +3,6 @@ layout: default
 title: Home
 nav_order: 1
 description: "Spatial Math Toolbox for MATLAB"
-permalink: /
 ---
 
 # Introduction
