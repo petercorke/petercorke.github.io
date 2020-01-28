@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: TOC_alpha
 ---
 # tr2rpy
 _Convert SO(3) or SE(3) matrix to roll-pitch-yaw angles_

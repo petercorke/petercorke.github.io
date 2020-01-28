@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: TOC_alpha
 ---
 # tr2delta
 _Convert SE(3) homogeneous transform to differential motion_

@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: TOC_alpha
 ---
 # tb_optparse
 _Standard option parser for Toolbox functions_

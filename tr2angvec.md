@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: TOC_alpha
 ---
 # tr2angvec
 _Convert rotation matrix to angle-vector form_
