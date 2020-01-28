@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: TOC_2d
+parent: List of 2d functions
 ---
 # trot2
 _SE(2) rotation matrix_

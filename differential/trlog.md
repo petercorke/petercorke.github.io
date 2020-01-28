@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: TOC_differential
+parent: List of differential functions
 ---
 # trlog
 _Logarithm of SO(3) or SE(3) matrix_

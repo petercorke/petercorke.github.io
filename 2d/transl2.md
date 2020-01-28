@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: TOC_2d
+parent: List of 2d functions
 ---
 # transl2
 _SE(2) translational homogeneous transform_

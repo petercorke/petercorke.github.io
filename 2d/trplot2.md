@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: TOC_2d
+parent: List of 2d functions
 ---
 # trplot2
 _Plot a 2D coordinate frame_

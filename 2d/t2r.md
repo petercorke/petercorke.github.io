@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: TOC_2d
+parent: List of 2d functions
 ---
 # t2r
 _Rotational submatrix_
