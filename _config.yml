@@ -3,7 +3,7 @@
 remote-theme: pmarsceill/just-the-docs
 #
 title: Spatial Math Toolbox for MATLAB
-description: "A free MATLAB for representing position, orientation and pose in 2D and 3D"
+description: "A free MATLAB Toolbox for representing position, orientation and pose in 2D and 3D"
 ga_tracking: UA-3845189-1
 aux_links:
   "Spatial Math Toolbox for MATLAB":
