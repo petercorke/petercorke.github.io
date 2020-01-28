@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # tranimate
 _Animate a 3D coordinate frame_

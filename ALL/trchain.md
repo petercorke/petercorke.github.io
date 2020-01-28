@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # trchain
 _Compound SE(3) transforms from string_

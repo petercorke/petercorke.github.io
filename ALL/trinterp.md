@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # trinterp
 _Interpolate SE(3) homogeneous transformations_

@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # tr2rt
 _Convert homogeneous transform to rotation and translation_

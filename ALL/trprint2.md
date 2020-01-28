@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # trprint2
 _Compact display of SE(2) homogeneous transformation_

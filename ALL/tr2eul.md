@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # tr2eul
 _Convert SO(3) or SE(3) matrix to Euler angles_

@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # trplot
 _Plot a 3D coordinate frame_

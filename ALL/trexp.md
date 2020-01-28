@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # trexp
 _Matrix exponential for so(3) and se(3)_

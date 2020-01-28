@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # transl
 _SE(3) translational homogeneous transform_

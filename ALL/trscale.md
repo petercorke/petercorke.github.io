@@ -1,4 +1,6 @@
 ---
+layout: default
+parent: Alphabetic list of functions
 ---
 # trscale
 _Homogeneous transformation for pure scale_
