@@ -11,3 +11,5 @@ aux_links:
   "Robotics Toolbox for MATLAB":
     - "https://github.com/petercorke/robotics-toolbox-matlab"
 footer_content: "Copyright &copy; Peter Corke. Distributed at <a href=\"http    s://github.com/petercorke/spatial-math\">Spatial Math Toolbox for MATLAB</a>    "
+
+theme: jekyll-theme-minimal
