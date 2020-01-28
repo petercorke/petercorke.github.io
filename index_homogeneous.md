@@ -3,7 +3,8 @@
 # List of homogeneous functions
 
 | Function | Description|
-|---|---||[`t2r`](t2r.html) | Rotational submatrix |
+|---|---|
+|[`t2r`](t2r.html) | Rotational submatrix |
 |[`tr2angvec`](tr2angvec.html) | Convert rotation matrix to angle-vector form |
 |[`tr2delta`](tr2delta.html) | Convert SE(3) homogeneous transform to differential motion |
 |[`tr2eul`](tr2eul.html) | Convert SO(3) or SE(3) matrix to Euler angles |
