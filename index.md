@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-description: "Spatial Math Toolbox for MATLAB"
 ---
 
 # Introduction
