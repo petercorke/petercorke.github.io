@@ -1,4 +1,6 @@
 ---
+layout: default
+has_children: true
 ---
 # Alphabetic list of functions
 
