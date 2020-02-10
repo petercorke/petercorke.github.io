@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Alphabetic list of functions
+parent: ALL functions
 ---
 # tr2rpy
 _Convert SO(3) or SE(3) matrix to roll-pitch-yaw angles_

@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of 2d functions
+parent: 2d functions
 ---
 # tr2rt
 _Convert homogeneous transform to rotation and translation_

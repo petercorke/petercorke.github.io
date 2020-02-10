@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of 3d functions
+parent: 3d functions
 ---
 # tranimate
 _Animate a 3D coordinate frame_
@@ -22,6 +22,7 @@ to the pose `X` represented by any of the types listed above.
 * SO(3) orthonormal rotation matrix sequence (3&times;3&times; N)
 
 ### Options
+
 | | |
 |---|---|
 | `'fps', fps` | Number of frames per second to display (default 10) |

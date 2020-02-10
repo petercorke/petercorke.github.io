@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of 3d functions
+parent: 3d functions
 ---
 # tr2angvec
 _Convert rotation matrix to angle-vector form_
@@ -19,6 +19,7 @@ If `R` (3&times;3&times; K) or `T` (4&times;4&times; K) represent a sequence the
 of angles for corresponding elements of the sequence and `V` (K&times;3) are the
 corresponding axes, one per row.
 ### Options
+
 | | |
 |---|---|
 | `'deg'` | Return angle in degrees (default radians) |

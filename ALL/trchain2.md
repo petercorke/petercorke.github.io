@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Alphabetic list of functions
+parent: ALL functions
 ---
 # trchain2
 _Compound SE(2) transforms from string_

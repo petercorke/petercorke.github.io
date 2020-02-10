@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of 2d functions
+parent: 2d functions
 ---
 # t2r
 _Rotational submatrix_

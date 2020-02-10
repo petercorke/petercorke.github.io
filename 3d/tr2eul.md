@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of 3d functions
+parent: 3d functions
 ---
 # tr2eul
 _Convert SO(3) or SE(3) matrix to Euler angles_
@@ -19,6 +19,7 @@ rotation matrix `R` (3&times;3).
 If `R` (3&times;3&times; K) or `T` (4&times;4&times; K) represent a sequence then each row of `EUL`
 corresponds to a step of the sequence.
 ### Options
+
 | | |
 |---|---|
 | `'deg'` | Compute angles in degrees (radians default) |

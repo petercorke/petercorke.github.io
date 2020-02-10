@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Alphabetic list of functions
+parent: ALL functions
 ---
 # trlog
 _Logarithm of SO(3) or SE(3) matrix_

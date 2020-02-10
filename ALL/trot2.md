@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Alphabetic list of functions
+parent: ALL functions
 ---
 # trot2
 _SE(2) rotation matrix_

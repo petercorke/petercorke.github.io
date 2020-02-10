@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of 3d functions
+parent: 3d functions
 ---
 # transl
 _SE(3) translational homogeneous transform_

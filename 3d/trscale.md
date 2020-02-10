@@ -1,6 +1,6 @@
 ---
-parent: List of 3d functions
 layout: default
+parent: 3d functions
 ---
 # trscale
 _Homogeneous transformation for pure scale_

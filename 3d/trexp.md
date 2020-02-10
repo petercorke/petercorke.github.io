@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of 3d functions
+parent: 3d functions
 ---
 # trexp
 _Matrix exponential for so(3) and se(3)_
@@ -18,7 +18,7 @@ yields a rotation matrix (3&times;3).
 
 
 ```R = TREXP(W)``` as above, but the so(3) value is expressed as a vector `W`
-(1&times;3) where `W` = `S` * `THETA`. Rotation by ||`W`|| about the vector `W`.
+(1&times;3) where `W` = `S` * `THETA`. Rotation by &vert;&vert;`W`&vert;&vert; about the vector `W`.
 ### For se(3)
 
 

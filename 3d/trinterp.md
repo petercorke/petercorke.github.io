@@ -1,6 +1,6 @@
 ---
-parent: List of 3d functions
 layout: default
+parent: 3d functions
 ---
 # trinterp
 _Interpolate SE(3) homogeneous transformations_

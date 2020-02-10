@@ -1,6 +1,6 @@
 ---
-parent: List of 3d functions
 layout: default
+parent: 3d functions
 ---
 # trlog
 _Logarithm of SO(3) or SE(3) matrix_

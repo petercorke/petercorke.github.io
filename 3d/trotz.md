@@ -1,6 +1,6 @@
 ---
-parent: List of 3d functions
 layout: default
+parent: 3d functions
 ---
 # trotz
 _SE(3) rotation about Z axis_

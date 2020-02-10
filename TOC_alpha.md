@@ -1,9 +1,4 @@
----
-layout: default
-has_children: true
-nav_order: 100
----
-# Alphabetic list of functions
+# All functions
 
 | Function | Description|
 |---|---|

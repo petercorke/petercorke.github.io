@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Alphabetic list of functions
+parent: ALL functions
 ---
 # trnorm
 _Normalize an SO(3) or SE(3) matrix_

@@ -1,6 +1,6 @@
 ---
-parent: List of 3d functions
 layout: default
+parent: 3d functions
 ---
 # trplot
 _Plot a 3D coordinate frame_
@@ -31,6 +31,7 @@ Firstly, create a plot and keep the the handle as per above.
 ```TRPLOT(H, T)``` moves the coordinate frame described by the handle `H` to
 the pose `T` (4&times;4).
 ### Options
+
 | | |
 |---|---|
 | `'handle',h` | Update the specified handle |

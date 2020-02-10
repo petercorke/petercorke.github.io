@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Alphabetic list of functions
+parent: ALL functions
 ---
 # tb_optparse
 _Standard option parser for Toolbox functions_

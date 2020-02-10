@@ -1,8 +1,11 @@
 ---
+layout: default
+has_children: true
+has_to: false
 nav_order: 10
 ---
-# List of utility functions
+# utility functions
 
 | Function | Description|
 |---|---|
-|[`tb_optparse`](TOC_tb_optparse.html) | Standard option parser for Toolbox functions |
+|[`tb_optparse`](tb_optparse.html) | Standard option parser for Toolbox functions |

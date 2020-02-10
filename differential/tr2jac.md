@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of differential functions
+parent: differential functions
 ---
 # tr2jac
 _Jacobian for differential motion_

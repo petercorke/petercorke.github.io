@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of 2d functions
+parent: 2d functions
 ---
 # trinterp2
 _Interpolate SE(2) homogeneous transformations_

@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of graphics functions
+parent: graphics functions
 ---
 # trplot2
 _Plot a 2D coordinate frame_

@@ -1,6 +1,6 @@
 ---
-parent: List of 3d functions
 layout: default
+parent: 3d functions
 ---
 # trprint
 _Compact display of SE(3) homogeneous transformation_

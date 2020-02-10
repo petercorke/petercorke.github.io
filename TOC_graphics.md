@@ -1,14 +1,14 @@
 ---
-nav_order: 10
 layout: default
 has_children: true
-has_toc: false
+has_to: false
+nav_order: 10
 ---
-# List of graphics functions
+# graphics functions
 
 | Function | Description|
 |---|---|
-|[`tranimate`](TOC_tranimate.html) | Animate a 3D coordinate frame |
-|[`tranimate2`](TOC_tranimate2.html) | Animate a 2D coordinate frame |
-|[`trplot`](TOC_trplot.html) | Plot a 3D coordinate frame |
-|[`trplot2`](TOC_trplot2.html) | Plot a 2D coordinate frame |
+|[`tranimate`](tranimate.html) | Animate a 3D coordinate frame |
+|[`tranimate2`](tranimate2.html) | Animate a 2D coordinate frame |
+|[`trplot`](trplot.html) | Plot a 3D coordinate frame |
+|[`trplot2`](trplot2.html) | Plot a 2D coordinate frame |

@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Alphabetic list of functions
+parent: ALL functions
 ---
 # tr2delta
 _Convert SE(3) homogeneous transform to differential motion_

@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of differential functions
+parent: differential functions
 ---
 # trexp
 _Matrix exponential for so(3) and se(3)_

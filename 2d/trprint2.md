@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of 2d functions
+parent: 2d functions
 ---
 # trprint2
 _Compact display of SE(2) homogeneous transformation_

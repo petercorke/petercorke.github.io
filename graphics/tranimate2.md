@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: List of graphics functions
+parent: graphics functions
 ---
 # tranimate2
 _Animate a 2D coordinate frame_
